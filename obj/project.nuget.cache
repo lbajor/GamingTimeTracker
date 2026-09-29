@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "boI+82MaivA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lbajor\\Nextcloud\\Dokumenty\\Kod\\GamingTimeTracker\\GamingTimeTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lbajor\\.nuget\\packages\\microsoft.data.sqlite\\8.0.31\\microsoft.data.sqlite.8.0.31.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.31\\microsoft.data.sqlite.core.8.0.31.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.1\\microsoft.extensions.configuration.fileextensions.8.0.1.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\microsoft.extensions.configuration.json\\8.0.1\\microsoft.extensions.configuration.json.8.0.1.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\8.0.1\\microsoft.extensions.configuration.usersecrets.8.0.1.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.12\\sqlitepclraw.bundle_e_sqlite3.2.1.12.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\sqlitepclraw.core\\2.1.12\\sqlitepclraw.core.2.1.12.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.12\\sqlitepclraw.lib.e_sqlite3.2.1.12.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.12\\sqlitepclraw.provider.e_sqlite3.2.1.12.nupkg.sha512",
+    "C:\\Users\\lbajor\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
