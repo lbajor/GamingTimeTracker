@@ -2,6 +2,7 @@
 using System.Text.Json;
 using Microsoft.Data.Sqlite;
 using Microsoft.Extensions.Configuration;
+using GamingTimeTracker;
 
 var configuration = new ConfigurationBuilder()
 	.AddUserSecrets<Program>()
